@@ -1,1 +1,1 @@
-# georgia-bot
+# simple chatbot to learning
